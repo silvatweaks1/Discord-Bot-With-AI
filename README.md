@@ -1,7 +1,3 @@
-# Discord Bot IA
-
-Bot de Discord simples que responde mensagens usando Inteligência Artificial.
-
 ## Visão Geral
 
 Projeto minimalista focado em aprendizado e uso pessoal.  
